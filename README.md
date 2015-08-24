@@ -3,6 +3,7 @@
 
 
 **Technology**
+
 [Techquickie](https://www.youtube.com/user/Techquickie/): Learn about the latest cool technology in only a couple minutes!
 
 **Science:**
@@ -18,6 +19,7 @@
 **Food:**
 
 **General Education:**
+
 [HowStuffWorks](https://www.youtube.com/user/HowStuffWorks): HowStuffWorks is an education website dedicated to satiating curiosity and explaining the world around you. You've got questions; we've got answers! Our team of know-it-alls isn't afraid of a challenge.
 
 **Ideas:**
@@ -26,4 +28,5 @@
 [TEDxTalks](https://www.youtube.com/user/TEDxTalks)
 
 **News**
+
 [TheYoungTurks](https://www.youtube.com/user/TheYoungTurks)
