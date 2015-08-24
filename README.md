@@ -1,21 +1,22 @@
-# Youtube-Classroom
-List of great channels in Youtube where you can learn stuff and be smart
+## Youtube-Classroom
+#####List of great channels in Youtube where you can learn stuff and be smart
 
 
-Technology
+**Technology**
 
-Science
-Veritasium(https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
+**Science**
+[Veritasium][https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA]
 
   Veritasium is a channel of science and engineering videos featuring experiments, expert interviews, cool demos, and   discussions with the public about everything science.
 
-History
+**History**
 
-Fitness
-OmarIsuf(https://www.youtube.com/user/OmarIsuf)
-Food
+**Fitness**
+[OmarIsuf][https://www.youtube.com/user/OmarIsuf]
 
-General Education
-Ted(https://www.youtube.com/user/TEDtalksDirector/featured)
+**Food**
+
+**General Education**
+[Ted][https://www.youtube.com/user/TEDtalksDirector/featured]
 
 
